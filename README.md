@@ -7,10 +7,10 @@
 ✅ Objective
 
 
-Use Superstore sales data to uncover actionable business insights through clear and meaningful visualizations using 
+  Use Superstore sales data to uncover actionable business insights through clear and meaningful visualizations using 
 
 
-Tableau or Power BI.
+  Tableau or Power BI.
 
 
 ---
@@ -23,15 +23,15 @@ Tableau or Power BI.
 
 
 
-Chart: KPI Cards or Bar chart
+   Chart: KPI Cards or Bar chart
 
 
 
-Metrics: Total Sales, Total Profit, Total Orders
+   Metrics: Total Sales, Total Profit, Total Orders
 
 
 
-Insight: Overall business health and growth snapshot.
+   Insight: Overall business health and growth snapshot.
 
 
 
@@ -39,15 +39,15 @@ Insight: Overall business health and growth snapshot.
 
 
 
-Chart: Map or Horizontal Bar Chart
+  Chart: Map or Horizontal Bar Chart
 
 
 
-Insight: Identify top- and bottom-performing regions.
+  Insight: Identify top- and bottom-performing regions.
 
 
 
-Example Insight: "West region generates the highest profit margin, while South lags despite high sales."
+  Example Insight: "West region generates the highest profit margin, while South lags despite high sales."
 
 
 
@@ -55,12 +55,12 @@ Example Insight: "West region generates the highest profit margin, while South l
 
 
 
-Chart: Treemap or Stacked Bar Chart
+  Chart: Treemap or Stacked Bar Chart
 
 
 
-Insight: Detect product categories driving revenue and profit.
+  Insight: Detect product categories driving revenue and profit.
 
 
-
-Example Insight: "Office Supplies has high sales but low profitability—consider pricing or discount changes."
+  
+  Example Insight: "Office Supplies has high sales but low profitability—consider pricing or discount changes."
